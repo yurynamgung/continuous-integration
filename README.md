@@ -1,4 +1,4 @@
-# Continuous Integration ![https://github.com/yurynamgung/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+# Continuous Integration ![https://github.com/yurynamgung/continuous-integration/actions?query=workflow%3Atests](https://github.com/yurynamgung/continuous-integration/workflows/tests/badge.svg)
 
 *This is the first homework assignment for Claremont McKenna's [CSCI46: Data Structures](https://github.com/mikeizbicki/cmc-csci046) course and [CSCI143: Big Data](https://github.com/mikeizbicki/cmc-csci143) course.*
 
@@ -186,7 +186,7 @@ In particular,
 the first line of the file currently contains the text
 
 ```
-# Continuous Integration ![https://github.com/yurynamgungmikeizbicki/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
+# Continuous Integration ![https://github.com/mikeizbicki/continuous-integration/actions?query=workflow%3Atests](https://github.com/mikeizbicki/continuous-integration/workflows/tests/badge.svg)
 ```
 
 To fix this problem and get the correct badge,
